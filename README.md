@@ -442,13 +442,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 These smart contracts are provided as educational examples and should not be used in production without proper security audits and testing.
 
-# Note you will get the contract address and transaction hash when you run the application
 
-```bash 
-go run main.go
 
-Your wallet address: 0x99F9660D89dE69C4314507d125E94fE942e6a95b
-Account balance: 0.050000 ETH
-Contract deployed! Address: 0x7554bAC09D022664c171Bc98a24a3F5aF25D67dc
-Transaction hash: 0x954469d024dd535cda4e0f74ec4ca2dd03e089fc4e82eff8b5819da5746c0c4c
-Waiting for transaction to be mined...
